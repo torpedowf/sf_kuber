@@ -1,0 +1,6 @@
+terraform apply
+docker service scale sockshop-swarm_front-end=2  (Масштабировать frontend-сервис до двух реплик)
+docker service ls (Эта команда выводит список запущеных сервисов)
+docker node ls (Список всех узлов, о которых знает менеджер Docker Swarm.)
+terraform destroy
+  

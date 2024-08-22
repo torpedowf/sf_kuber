@@ -21,8 +21,5 @@
 ![image](https://user-images.githubusercontent.com/69116076/233320494-282055fe-9d10-443d-a37b-2f9eb262becc.png)
 ![image](https://user-images.githubusercontent.com/69116076/233320638-fdb06e37-2275-4274-a926-c59032768eff.png)
 ![image](https://user-images.githubusercontent.com/69116076/233320788-651fe50b-fd5e-4508-8829-c0681aa5b49b.png)
-![image](https://user-images.githubusercontent.com/69116076/233321001-f1463a6b-d3ef-42bd-8d3c-950a779b30d8.png)
-При переходе на товары в логах светятся контейнеры отвечающий за сервис фронтенда, каталога и пользователя:
-![image](https://user-images.githubusercontent.com/69116076/233322317-cd9291e7-5e9f-4256-9613-d504b44c537c.png)
-![image](https://user-images.githubusercontent.com/69116076/233323149-8b6f1e91-b3f2-4326-86c7-f5af700f62e2.png)
+
 

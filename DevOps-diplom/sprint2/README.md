@@ -118,11 +118,6 @@ docker_build:
     - docker push saptarm/sprint2:$TAG
 
 ```
-Если job выполнился успешно, тогда вывод будет следующий:
-![Screenshot from 2023-10-04 10-36-39](https://github.com/SaptArm/DevOps-Sprint2/assets/129938847/86c1b144-7765-4151-8ddb-f80a7764a055)
-
-Результат можно посмотреть в Docker Hub:
-![Screenshot from 2023-10-04 10-24-28](https://github.com/SaptArm/DevOps-Sprint2/assets/129938847/300928e2-dfb5-4594-8b53-a794d3382ac1)
 
 3) В каталоге kubernetes описываем все нужные манифесты:
 ```
